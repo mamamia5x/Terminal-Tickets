@@ -5,6 +5,7 @@ Terminal Tickets is a ticket manager that is used compeletely in the terminal. A
 * [How does it work](#how-does-it-work)
 * [Version History](#version-history)
 * [Planned](#planned)
+
 ### How does it work?
 
 It uses functions as commands. So if you want to add something, you'll say "add('text')" in the terminal, you are just calling a function named add.
