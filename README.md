@@ -13,7 +13,7 @@ It uses functions as commands. So if you want to add something, you'll say "add(
 ### Version History
 
 #### V.0.1.0 Beta 
-* First release of Terminl Tickets
+* First release of Terminal Tickets
 
 # Planned
 * Colours
